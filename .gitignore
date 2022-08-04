@@ -1,0 +1,6 @@
+.env
+.idea
+*.pem
+go-web*
+log/*.log
+key/*
